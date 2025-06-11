@@ -1,1 +1,1 @@
-# Magnate-AI For Image detact
+# Magnate-AI For Image detact for
